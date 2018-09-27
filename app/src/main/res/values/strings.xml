@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="helpactivity">please click on BMI button for calculat \n body mass index.</string>
+</resources>
